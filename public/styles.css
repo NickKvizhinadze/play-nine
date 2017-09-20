@@ -33,3 +33,8 @@ cursor: not-allowed;
     background-color: #aaddaa;
 color: #99bb99;
 }
+
+
+.answerContainer {
+    display: inline;
+  }
